@@ -1,0 +1,7 @@
+Started pair programming at 11AM 15 February 2019
+
+Installed Unity 3D
+Followed a tutorial on YouTube about how to create a grid in Unity 3D
+Added the unity project to GitHub
+
+
