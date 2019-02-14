@@ -3,3 +3,6 @@ Jacob and I formed our battleship group
 
 2/8/19 - 1 hour
 We hashed out what we wanted to acheive in our game and ranked them with difficulty levels
+
+2/14/19 - 38 minutes
+We watched a video and made a grid in unity
