@@ -6,3 +6,6 @@ We hashed out what we wanted to acheive in our game and ranked them with difficu
 
 2/14/19 - 38 minutes
 We watched a video and made a grid in unity
+
+2/14/19 - 1 hour and 22 minutes
+We worked on make five ship objects and making it so that they would stay within the 10 by 10 grid
