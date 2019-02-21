@@ -9,3 +9,6 @@ We watched a video and made a grid in unity
 
 2/14/19 - 1 hour and 22 minutes
 We worked on make five ship objects and making it so that they would stay within the 10 by 10 grid
+
+2/21/19 - 1 hour and 10 minutes
+I tried figuring out colors and how to use and change them
