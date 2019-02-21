@@ -5,12 +5,16 @@ using UnityEngine;
 public class Board : MonoBehaviour
 {
     public GameObject board;
-    public Color boardColor;
+    public Renderer rend;
 
     public Board() {
+
         board = GameObject.CreatePrimitive(PrimitiveType.Plane);
-        board.transform.localScale = new Vector3(10, 1, 10);
-        this.boardColor = Color.blue; 
+        board.transform.localScale = new Vector3(5, 1, 5);
+        rend = GetComponent<Renderer>();
+
+        rend.material.shader = Shader.Find("_Color");
+        rend.material.SetColor("_Color", Color.blue);
     }
 
 
