@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/customGrid.cs">
     <Files>
-      <File FileName="Assets/customGrid.cs" Line="31" Column="27" />
-      <File FileName="ship.cs" Line="4" Column="1" />
+      <File FileName="Assets/customGrid.cs" Line="13" Column="39" />
+      <File FileName="Assets/ship.cs" Line="16" Column="38" />
+      <File FileName="Assets/Board.cs" Line="14" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

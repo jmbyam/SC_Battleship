@@ -6,9 +6,12 @@ public class customGrid : MonoBehaviour
 {
     public float gridSize;
     public List<Ship> ships;
-    
+
+
     private void Start()
     {
+        Board gameBoard = new Board();
+
         Ship carrier = new Ship(5);
         Ship battleship = new Ship(4);
         Ship cruiser = new Ship(3);
