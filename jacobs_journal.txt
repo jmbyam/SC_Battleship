@@ -1,7 +1,20 @@
-Started pair programming at 11AM 15 February 2019
+Started pair programming at 11AM 14 February 2019
 
 Installed Unity 3D
 Followed a tutorial on YouTube about how to create a grid in Unity 3D
 Added the unity project to GitHub
 
+switched off on pair programming
+Started working on the ship class
+First time using C# and unity didn't get very far
 
+total time 2hr
+
+21 February 2019
+
+pair programming
+redid the grid to use UIElements instead of planes
+set the background to a color
+Started looking at Nunit for C# unit tests
+
+total time 1hr
