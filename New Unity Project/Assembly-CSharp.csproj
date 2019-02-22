@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Board.cs" />
+    <Compile Include="Assets\CColorButton.cs" />
     <Compile Include="Assets\customGrid.cs" />
     <Compile Include="Assets\ship.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
