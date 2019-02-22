@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ship.cs">
     <Files>
       <File FileName="Assets/customGrid.cs" Line="13" Column="39" />
-      <File FileName="Assets/ship.cs" Line="18" Column="54" />
-      <File FileName="Assets/Board.cs" Line="13" Column="55" />
+      <File FileName="Assets/ship.cs" Line="14" Column="9" />
+      <File FileName="Assets/Board.cs" Line="12" Column="65" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
