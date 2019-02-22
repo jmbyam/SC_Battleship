@@ -21,3 +21,6 @@ Messing with buttons to try and get some things done
 
 2/21/19 - 1 hour
 Still messing with the buttons, trying to get it to change colors on mouse click. No luck
+
+2/22/19 - 1 hour and 5 minutes
+Made 98 buttons and made it so they turn white when you push them
