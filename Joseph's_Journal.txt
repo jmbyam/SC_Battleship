@@ -24,3 +24,6 @@ Still messing with the buttons, trying to get it to change colors on mouse click
 
 2/22/19 - 1 hour and 5 minutes
 Made 98 buttons and made it so they turn white when you push them
+
+2/22/19 - 1 hour and 7 minutes
+We finally got the buttons to change to the colors that we want them to change. The future is ahead of us.
