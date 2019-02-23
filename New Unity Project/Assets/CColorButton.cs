@@ -8,13 +8,35 @@ public class CColorButton : MonoBehaviour
     public Button button;
 
     private bool buttonFlag = false;
-    private int index = 1;
+
+    private void Start()
+    {
+        ColorBlock temp = button.colors;
+
+        temp.normalColor = temp.normalColor;
+        temp.disabledColor = temp.normalColor;
+        temp.highlightedColor = temp.normalColor;
+        temp.pressedColor = temp.normalColor;
+        button.colors = temp;
+    }
 
     public void buttonPressed()
     {
-    
-        button.colors = UnityEngine.UI.ColorBlock.defaultColorBlock;
-        buttonFlag = false;
+        ColorBlock temp = button.colors;
 
+        if ( ! buttonFlag )
+        {
+            temp.normalColor = Color.white;
+            temp.highlightedColor = Color.white;
+            button.colors = temp;
+            buttonFlag = true;
+        }
+        else
+        {
+            temp.normalColor = Color.red;
+            temp.highlightedColor = Color.red;
+            button.colors = temp;
+            buttonFlag = false;
+        }
     }
 }

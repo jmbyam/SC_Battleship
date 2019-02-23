@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CColorButton.cs">
     <Files>
-      <File FileName="Assets/customGrid.cs" Line="13" Column="39" />
+      <File FileName="Assets/customGrid.cs" Line="26" Column="6" />
       <File FileName="Assets/ship.cs" Line="21" Column="55" />
       <File FileName="Assets/Board.cs" Line="12" Column="65" />
-      <File FileName="Assets/CColorButton.cs" Line="27" Column="58" />
+      <File FileName="Assets/CColorButton.cs" Line="34" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
