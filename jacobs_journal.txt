@@ -10,6 +10,8 @@ First time using C# and unity didn't get very far
 
 total time 2hr
 
+----
+
 21 February 2019
 
 pair programming
@@ -18,3 +20,21 @@ set the background to a color
 Started looking at Nunit for C# unit tests
 
 total time 1hr
+
+----
+
+22 February 2019
+
+pair programming
+setup mouse click events on buttons to change colors
+
+total time 1 hr
+
+----
+
+Reasearch
+Watched a talk about unity titled Introduction To Unity from a 2D Prespective 1 hour
+Read a related blog post.
+
+----
+
