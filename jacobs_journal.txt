@@ -38,3 +38,10 @@ Read a related blog post.
 
 ----
 
+26 February 2019
+
+Paired programming. Worked on connecting scripts to gameobjects created in the editor.
+Setup google slides and started working on presentations.
+
+----
+
