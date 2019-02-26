@@ -27,3 +27,6 @@ Made 98 buttons and made it so they turn white when you push them
 
 2/22/19 - 1 hour and 7 minutes
 We finally got the buttons to change to the colors that we want them to change. The future is ahead of us.
+
+2/25/19 - 1 hour and 16 minutes
+I added some text for a score board and some insults to be spawned when people miss too much and the game drags on
