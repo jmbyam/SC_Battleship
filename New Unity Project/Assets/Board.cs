@@ -11,7 +11,8 @@ public class Board : MonoBehaviour
 
     public Board() {
 
-        for ( char letter = 'A'; letter < gridSize; ++letter){
+        for (char letter = 'A'; letter < gridSize; ++letter)
+        {
             for (int num = 1; num < gridSize; ++num)
             {
                 string str = letter + num.ToString();
@@ -19,7 +20,6 @@ public class Board : MonoBehaviour
                 Debug.Log(str);
             }
         }
-
     }
 
     private void Start()
