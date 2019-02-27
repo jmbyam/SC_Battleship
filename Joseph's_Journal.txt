@@ -33,3 +33,6 @@ I added some text for a score board and some insults to be spawned when people m
 
 2/26/19 - 1 hour and 8 minutes
 We worked on connecting all the buttons to the game board so that we could put ships in them and then work on rotating them but that really amout to anything yet. Then we worked on the slides for the presentation
+
+2/27/19 - 30 minutes
+I just moved some stuff around so the unity project arrows don't seem so cluttered and tried some stuff with the board loops that grab the buttons that didn't end up doing anything so its the same as before
